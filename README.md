@@ -7,6 +7,6 @@ Mobilna aplikacija za upravljanje robotskom platformom korištenjem Android Thin
 
 ### Organizacija
 [Sveučilište Jurja Dobrile u Puli](http://www.unipu.hr/)   
-[Fakultet informatike](https://fipu.unipu.hr/)  
+[Fakultet informatike u Puli](https://fipu.unipu.hr/)  
 Mobilne aplikacije, Ak.g. 2017./2018.  
 Voditelj: **Siniša Sovilj** (ssovilj@unipu.hr)
