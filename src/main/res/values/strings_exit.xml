@@ -1,0 +1,6 @@
+<resources>
+    <string name="exit_title">Izlaz</string>
+    <string name="exit_message">Želite li izači iz aplikacije?</string>
+    <string name="exit_yes">Da</string>
+    <string name="exit_no">Ne</string>
+</resources>
