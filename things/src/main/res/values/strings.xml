@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Upravljanje Robotskim Vozilom</string>
+    <string name="connected">Spojen</string>
+    <string name="disconnected">Odspojen</string>
+    <string name="forward">Napred</string>
+    <string name="left">Lijevo</string>
+    <string name="back">Nazad</string>
+    <string name="right">Desno</string>
+    <string name="stop">Stop</string>
+</resources>

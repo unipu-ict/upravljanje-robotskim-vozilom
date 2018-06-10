@@ -1,0 +1,5 @@
+<resources>
+    <string name="menu_instructions">Upute</string>
+    <string name="menu_about">O programu</string>
+    <string name="menu_exit">Izlaz</string>
+</resources>

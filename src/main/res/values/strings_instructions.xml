@@ -1,6 +1,0 @@
-<resources>
-    <string name="upute_first_line">1. Upaliti vozilo</string>
-    <string name="upute_second_line">2. Kliknuti spoji za spajanje s vozilom</string>
-    <string name="upute_third_line">3. Čekat dok se aplikacija spoji s vozilom</string>
-    <string name="upute_fourth_line">4. Koristiti vozilo pomoču aplikacije</string>
-</resources>
