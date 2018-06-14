@@ -1,4 +1,4 @@
-# upravljanje-robotskim-vozilom-iot+mobapp
+# upravljanje-robotskim-vozilom (iotapp+mobapp)
 Mobilna aplikacija za upravljanje robotskom platformom korištenjem Android Things OS-a.
 
 ### Autori (2017./2018.)
